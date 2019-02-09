@@ -1,0 +1,1 @@
+Weird experience - github has started issuing security alerts on vulnerable dependencies. Looks like an honorable effort. But I am not sure how I feel about this. It clearly means github and by extension Microsoft parsed through all of my pom.xml files. Is Microsoft also parsing everybody's source code?? If so ... NOT COOL!
